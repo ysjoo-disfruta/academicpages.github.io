@@ -27,9 +27,6 @@ Work Experience
 * Speech Synthesis Team Lead, NCSOFT Corp.  &nbsp;<span style="color:gray"><small>May 2021 - Present</small></span>  
 <small>Research interests : speech synthesis, voice conversion</small>
 
-* Speech Synthesis Team Lead, NCSOFT Corp.  &nbsp;<span style="color:gray"><small>May 2021 - Present</small></span>  
-<small>Research interests : speech synthesis, voice conversion</small>
-
 * Voice Conversion Team Lead, NCSOFT Corp. &nbsp;<span style="color:gray"><small> Jan. 2020 - Apr. 2021</small></span>  
 <small>Research interests : speech synthesis, voice conversion</small>
 
@@ -50,8 +47,16 @@ Patents
 * <small>KR 10-2018-0081395, 다중 화자 데이터를 이용한 딥러닝 기반 음성 합성 장치 및 방법 (Apparatus for deep learning based Text-to-Speech synthesis using multi-speaker data and method for the same), 2018.</small>
 * <small>KR 10-2016-0031307, 딥러닝 기반의 음성 합성 시스템을 위한 피치 동기화 음성 합성 방법 (Text-to-Speech Synthesis Method using Pitch Synchronization in Deep Learning Based Text-to-Speech Synthesis System), 2016.</small>
 
+
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Teaching on   &nbsp;<span style="color:gray"><small>Sep. 2014 - Feb. 2015</small></span>  [[Slide]()]
+<span style="color:gray"><small>Sep. 2017</small></span>  
+<small>Teaching at [Fast campus](https://fastcampus.co.kr/), Republic of Kroea</small>  
+
+* Teaching on    &nbsp;<span style="color:gray"><small>Sep. 2014 - Feb. 2015</small></span>  [[Slide]()]
+<small>Teaching at [Fast campus](https://fastcampus.co.kr/), Republic of Korea</small>  
+  
+* Talk on  [[Slide]()]  
+<small>Research interests : speech synthesis research, excitation model</small>  
+<small>Talk at LG Electronics, Republic of Korea</small>

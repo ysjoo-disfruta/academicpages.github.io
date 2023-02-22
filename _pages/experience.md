@@ -10,13 +10,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical and Electronic Engineering, [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp), Republic of Korea, 2019
-  * Dissertation: 
-  * Supervisor: Prof. Hong-Goo Kang
-* M.S. in Electrical and Electronic Engineering, [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp), Republic of Korea, 2013
-  * Dissertation: 
-  * Supervisor: Prof. Hong-Goo Kang
-* B.S. in Electronic Engineering, [Kwangwoon University](https://www.kw.ac.kr/en/index.jsp), Republic of Korea, 2011
+* Ph.D in Electrical and Electronic Engineering, [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp), Republic of Korea, 2019  
+&nbsp;&nbsp;&bull;Dissertation: 
+&nbsp;&nbsp;&bull;Supervisor: Prof. Hong-Goo Kang
+
+* M.S. in Electrical and Electronic Engineering, [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp), Republic of Korea, 2013  
+&bull;Dissertation: 
+&bull;Supervisor: Prof. Hong-Goo Kang
+* B.S. in Electronic Engineering, [Kwangwoon University](https://www.kw.ac.kr/en/index.jsp), Republic of Korea, 2011  
 
 Work Experience
 ======

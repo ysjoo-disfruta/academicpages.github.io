@@ -31,9 +31,8 @@ Work Experience
 Speech Synthesis Team Lead, NCSOFT Corp.  
 <small>* Research interests : speech synthesis, voice conversion</small>
 
-<span style="color:gray"><small>Jan. 2020 - Apr. 2021</small></span>  
-Voice Conversion Team Lead, NCSOFT Corp.
-:   * Research interests : speech synthesis, voice conversion
+Voice Conversion Team Lead, NCSOFT Corp. <span style="color:gray"><small>Jan. 2020 - Apr. 2021</small></span>  
+<small>* Research interests : speech synthesis, voice conversion</small>
 
   <span style="color:gray"><small>Feb. 2017 - Dec. 2019</small></span>  
 Research Scientist, NCSOFT Corp.  

@@ -20,6 +20,13 @@ Education
 
 Work Experience
 ======
+* Speech Synthesis Team Lead, NCSOFT Corp.  
+<span style="color:gray"><small>May 2021 - Present</small></span>  
+<small>* Research interests : speech synthesis, voice conversion</small>
+
+
+
+
 <span style="color:gray"><small>May 2021 - Present</small></span>  
 Speech Synthesis Team Lead, NCSOFT Corp.  
 <small>* Research interests : speech synthesis, voice conversion</small>

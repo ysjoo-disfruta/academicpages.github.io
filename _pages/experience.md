@@ -33,13 +33,13 @@ Research Scientist, NCSOFT Corp.
   * Research interests : speech synthesis
 
 <span style="color:gray"><small>Sep. 2014 - Feb. 2015</small></span>  
-Research Intern, Microsoft Research Asia, China
+* Research Intern, Microsoft Research Asia, China
   * Research interests : speech synthesis research, excitation model
   * Mentor : Dr. [Frank K. Soong](https://www.researchgate.net/profile/Frank-Soong)
 
 Patents
 ======
-* US-16035261, Apparatus for deep learning based text-to-speech synthesizing by using multi-speaker data and method for the same, [link](https://patentimages.storage.googleapis.com/d2/f7/a8/3b7bd7ef2465e8/US20190019500A1.pdf), 2019.
+* US-16035261, Apparatus for deep learning based text-to-speech synthesizing by using multi-speaker data and method for the same, 2019. [[link](https://patentimages.storage.googleapis.com/d2/f7/a8/3b7bd7ef2465e8/US20190019500A1.pdf)]
 
 Talks
 ======

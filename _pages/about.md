@@ -16,6 +16,6 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 For more information
 ------
-Please, feel free to contact me.
-<i class="fas fa-fw fa-envelope" aria-hidden="true"></i>  
+Please, feel free to contact me.  
+<i class="fas fa-fw fa-envelope" aria-hidden="true"></i>
 <small>&nbsp;&nbsp;youngsun.a.joo@ngmail.com</small>  

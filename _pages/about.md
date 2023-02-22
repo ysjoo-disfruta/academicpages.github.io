@@ -8,14 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-A data-driven personal website
-======
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing.
+Young-Sun JOO received the B.S. degree in electronics engineering from [Kwangwoon University], Republic of Korea, in 2011, and the M.S. and Ph.D. degrees in electrical and electronics engineering from Yonsei University, Republic of Korea, in 2013 and 2019, respectively; her laboratory is [DSP&AI Lab.](http://dsp.yonsei.ac.kr/). In 2017, she joined NCSOFT Corporation, Republic of Korea. She served her internships at Microsoft Research Asia, China, from 2014 to 2015. Her research interests include speech signal processing, speech analysis/synthesis, speech synthesis, voice conversion, and machine learning.
+
 
 For more information
 ------
-Please, feel free to contact me.  
+Please, feel free to contact me. 
 <i class="fas fa-fw fa-envelope" aria-hidden="true"></i>
-&nbsp;youngsun.a.joo@gmail.com
+youngsun.a.joo@gmail.com

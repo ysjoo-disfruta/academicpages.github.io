@@ -11,10 +11,12 @@ redirect_from:
 Education
 ======
 * Ph.D in Electrical and Electronic Engineering, [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp), Republic of Korea, 2019  
+<small>[DSP & AI Lab.]([dsp.yonsei.ac.kr](http://dsp.yonsei.ac.kr/))</small>  
 <small>Dissertation: </small>  
 <small>Supervisor: Prof. [Hong-Goo Kang](https://scholar.google.com/citations?user=YsD8KCYAAAAJ&hl=ko)
 
 * M.S. in Electrical and Electronic Engineering, [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp), Republic of Korea, 2013  
+<small>[DSP & AI Lab.]([dsp.yonsei.ac.kr](http://dsp.yonsei.ac.kr/))</small>  
 <small>Dissertation: </small>  
 <small>Supervisor: Prof. [Hong-Goo Kang](https://scholar.google.com/citations?user=YsD8KCYAAAAJ&hl=ko)
 

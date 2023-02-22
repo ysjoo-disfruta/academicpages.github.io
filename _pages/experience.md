@@ -27,14 +27,13 @@ Work Experience
 <small>* Research interests : speech synthesis, voice conversion</small>
 
 * Voice Conversion Team Lead, NCSOFT Corp. <span style="color:gray"><small> Jan. 2020 - Apr. 2021</small></span>  
-<small>Research interests : speech synthesis, voice conversion</small>
+<small>* Research interests : speech synthesis, voice conversion</small>
 
-* Research Scientist, NCSOFT Corp.  <span style="color:gray"><small>Feb. 2017 - Dec. 2019</small></span>  
-<small>Research interests : speech synthesis</small>
+* Research Scientist, NCSOFT Corp.  &nbsp;<span style="color:gray"><small>Feb. 2017 - Dec. 2019</small></span>  
+<small>&bull; Research interests : speech synthesis</small>
 
-<span style="color:gray"><small>Sep. 2014 - Feb. 2015</small></span>  
-Research Intern, Microsoft Research Asia, China  
-<small>  * Research interests : speech synthesis research, excitation model</small>
+* Research Intern, Microsoft Research Asia, China  <span style="color:gray"><small>Sep. 2014 - Feb. 2015</small></span>  
+<small>Research interests : speech synthesis research, excitation model</small>  
 <small>Mentor : Dr. [Frank K. Soong](https://www.researchgate.net/profile/Frank-Soong)</small>
 
 

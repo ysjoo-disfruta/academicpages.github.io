@@ -18,4 +18,4 @@ For more information
 ------
 Please, feel free to contact me.  
 <i class="fas fa-fw fa-envelope" aria-hidden="true"></i>
-&nbsp;&nbsp;youngsun.a.joo@gmail.com
+&nbsp;youngsun.a.joo@gmail.com

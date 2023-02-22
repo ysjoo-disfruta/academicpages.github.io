@@ -12,31 +12,31 @@ Education
 ======
 * Ph.D in Electrical and Electronic Engineering, [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp), Republic of Korea, 2019  
 <small>[DSP & AI Lab.]([dsp.yonsei.ac.kr](http://dsp.yonsei.ac.kr/))</small>  
-<small>Dissertation: </small>  
+<small>Dissertation: Effective Emotion Transplantation in an End-to-End Text-to-Speech System</small>  
 <small>Supervisor: Prof. [Hong-Goo Kang](https://scholar.google.com/citations?user=YsD8KCYAAAAJ&hl=ko)
 
 * M.S. in Electrical and Electronic Engineering, [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp), Republic of Korea, 2013  
 <small>[DSP & AI Lab.]([dsp.yonsei.ac.kr](http://dsp.yonsei.ac.kr/))</small>  
-<small>Dissertation: </small>  
+<small>Dissertation: Enhancement of Spectral Clarity for HMM-based Text-to-Speech Systems</small>  
 <small>Supervisor: Prof. [Hong-Goo Kang](https://scholar.google.com/citations?user=YsD8KCYAAAAJ&hl=ko)
 
 * B.S. in Electronic Engineering, [Kwangwoon University](https://www.kw.ac.kr/en/index.jsp), Republic of Korea, 2011  
 
 Work Experience
 ======
-* Speech Synthesis Team Lead, NCSOFT Corp.  <span style="color:gray"><small>May 2021 - Present</small></span>  
+* Speech Synthesis Team Lead, NCSOFT Corp.  &nbsp;<span style="color:gray"><small>May 2021 - Present</small></span>  
 <small>Research interests : speech synthesis, voice conversion</small>
 
-* Speech Synthesis Team Lead, NCSOFT Corp.  <span style="color:gray"><small>May 2021 - Present</small></span>  
+* Speech Synthesis Team Lead, NCSOFT Corp.  &nbsp;<span style="color:gray"><small>May 2021 - Present</small></span>  
 <small>Research interests : speech synthesis, voice conversion</small>
 
-* Voice Conversion Team Lead, NCSOFT Corp. <span style="color:gray"><small> Jan. 2020 - Apr. 2021</small></span>  
+* Voice Conversion Team Lead, NCSOFT Corp. &nbsp;<span style="color:gray"><small> Jan. 2020 - Apr. 2021</small></span>  
 <small>Research interests : speech synthesis, voice conversion</small>
 
 * Research Scientist, NCSOFT Corp.  &nbsp;<span style="color:gray"><small>Feb. 2017 - Dec. 2019</small></span>  
 <small>Research interests : speech synthesis</small>
 
-* Research Intern, Microsoft Research Asia, China  <span style="color:gray"><small>Sep. 2014 - Feb. 2015</small></span>  
+* Research Intern, Microsoft Research Asia, China  &nbsp;<span style="color:gray"><small>Sep. 2014 - Feb. 2015</small></span>  
 <small>Research interests : speech synthesis research, excitation model</small>  
 <small>Mentor : Dr. [Frank K. Soong](https://www.researchgate.net/profile/Frank-Soong)</small>
 

@@ -8,8 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+I received the B.S. degree in electronics engineering from [Kwangwoon University](https://www.kw.ac.kr/en/index.jsp), Republic of Korea, in 2011, and the M.S. and Ph.D. degrees in electrical and electronics engineering from [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp), Republic of Korea, in 2013 and 2019, respectively; my laboratory is [DSP&AI Lab.](http://dsp.yonsei.ac.kr/). I served my internship at Microsoft Research Asia, China, from 2014 to 2015.
 
-Young-Sun Joo received the B.S. degree in electronics engineering from [Kwangwoon University], Republic of Korea, in 2011, and the M.S. and Ph.D. degrees in electrical and electronics engineering from Yonsei University, Republic of Korea, in 2013 and 2019, respectively; her laboratory is [DSP&AI Lab.](http://dsp.yonsei.ac.kr/). In 2017, she joined NCSOFT Corporation, Republic of Korea. She served her internships at Microsoft Research Asia, China, from 2014 to 2015. Her research interests include speech signal processing, speech analysis/synthesis, speech synthesis, voice conversion, and machine learning.
+In 2017, I joined NCSOFT Corporation as a speech research scientist, Republic of Korea. In 2020, I was a voice conversion team lead and I'm a speech synthesis team lead since 2021.
+
+My research interests include speech signal processing, speech analysis/synthesis, speech synthesis, voice conversion, and machine learning.
+
+
 
 
 For more information

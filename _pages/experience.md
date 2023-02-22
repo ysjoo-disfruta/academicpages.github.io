@@ -21,27 +21,25 @@ Education
 Work Experience
 ======
 <span style="color:gray"><small>May 2021 - Present</small></span>  
-* Speech Synthesis Team Lead, NCSOFT Corp.
+Speech Synthesis Team Lead, NCSOFT Corp.
   * Research interests : speech synthesis, voice conversion
 
 <span style="color:gray"><small>Jan. 2020 - Apr. 2021</small></span>  
-* Voice Conversion Team Lead, NCSOFT Corp.
+Voice Conversion Team Lead, NCSOFT Corp.
   * Research interests : speech synthesis, voice conversion
 
 <span style="color:gray"><small>Feb. 2017 - Dec. 2019</small></span>  
-* Research Scientist, NCSOFT Corp.
+Research Scientist, NCSOFT Corp.
   * Research interests : speech synthesis
 
 <span style="color:gray"><small>Sep. 2014 - Feb. 2015</small></span>  
-* Research Intern, Microsoft Research Asia, China
+Research Intern, Microsoft Research Asia, China
   * Research interests : speech synthesis research, excitation model
   * Mentor : Dr. [Frank K. Soong](https://www.researchgate.net/profile/Frank-Soong)
 
 Patents
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* US-16035261, Apparatus for deep learning based text-to-speech synthesizing by using multi-speaker data and method for the same, [link](https://patentimages.storage.googleapis.com/d2/f7/a8/3b7bd7ef2465e8/US20190019500A1.pdf), 2019.
 
 Talks
 ======

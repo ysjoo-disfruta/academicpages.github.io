@@ -46,7 +46,7 @@ Research Intern, Microsoft Research Asia, China
 
 Patents
 ======
-* US20190019500A1, _Apparatus for deep learning based text-to-speech synthesizing by using multi-speaker data and method for the same_, 2019. [[link](https://patentimages.storage.googleapis.com/d2/f7/a8/3b7bd7ef2465e8/US20190019500A1.pdf)]
+* <small>US20190019500A1, _Apparatus for deep learning based text-to-speech synthesizing by using multi-speaker data and method for the same_, 2019. [[link](https://patentimages.storage.googleapis.com/d2/f7/a8/3b7bd7ef2465e8/US20190019500A1.pdf)]</small>
 * KR 10-2021-0074477, _음성 신호 생성 장치 및 음성 신호 생성 방법_, 2021.
 * KR 10-2020-0049525, _발화 속도 조절이 가능한 텍스트 음성 변환 학습 장치 및 발화 속도 조절이 가능한 텍스트 음성 변환 장치 (Learning device and device for speaking rate controllable Text-to-Speech)_, 2020.
 * KR 10-2019-0128699, _감정 이식 장치 및 감정 이식 방법 (Device and method for emotion transplantation)_, 2019.

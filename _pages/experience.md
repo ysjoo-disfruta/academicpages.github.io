@@ -50,13 +50,10 @@ Patents
 
 Talks
 ======
-* Teaching on   &nbsp;<span style="color:gray"><small>Sep. 2014 - Feb. 2015</small></span>  [[Slide]()]
-<span style="color:gray"><small>Sep. 2017</small></span>  
+* Teaching on Understanding of speech synthesis and its trends   &nbsp;<span style="color:gray"><small>Sep. 2014 - Feb. 2015</small></span>  [[Slide]()]
+<span style="color:gray"><small>July 12, 2018</small></span>  
 <small>Teaching at [Fast campus](https://fastcampus.co.kr/), Republic of Kroea</small>  
 
-* Teaching on    &nbsp;<span style="color:gray"><small>Sep. 2014 - Feb. 2015</small></span>  [[Slide]()]
+* Teaching on Understanding of speech synthesis and its trends [[Slide]()]  
+<span style="color:gray"><small>April 25, 2018</small></span>  
 <small>Teaching at [Fast campus](https://fastcampus.co.kr/), Republic of Korea</small>  
-  
-* Talk on  [[Slide]()]  
-<small>Research interests : speech synthesis research, excitation model</small>  
-<small>Talk at LG Electronics, Republic of Korea</small>
